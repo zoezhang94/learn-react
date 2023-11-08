@@ -1,9 +1,8 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: wenxi zhang
 
-Northeastern ID: Enter your Northeastern ID
-
+Northeastern ID: 002754067
 ## Getting Started
 First, fork this repository and clone it to your local machine.
 
